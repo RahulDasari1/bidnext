@@ -2,6 +2,9 @@
 
 **Your Next Big Win Awaits!**
 
+![6212118-ai](https://github.com/user-attachments/assets/e0eed2c5-32da-4957-8ab1-d2aeb5d94d1a)
+
+
 BidNext is an innovative online auction platform where users can discover, bid, and win amazing items in real-time. Designed to provide a smooth, transparent, and secure bidding experience, BidNext brings the thrill of auctions directly to your screen, wherever you are.
 
 ## Features
