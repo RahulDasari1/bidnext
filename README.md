@@ -91,4 +91,4 @@ For any questions or feedback, feel free to reach out!
 
 ---
 
-*Happy Bidding with BidNext! Remember, Your Next Big Win Awaits!*
+*Happy Bidding with BidNext! Remember, Your Next Big Win Awaits!!*
